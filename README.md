@@ -1,2 +1,2 @@
 # shell
-meh.com
+meh.com deal scrapper, bare minimum version..
